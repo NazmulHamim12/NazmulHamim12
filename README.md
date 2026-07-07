@@ -125,9 +125,9 @@ A web application designed to help university students access academic resources
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NazmulHamim12&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NazmulHamim12&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -137,7 +137,7 @@ A web application designed to help university students access academic resources
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=NazmulHamim12&theme=tokyonight"/>
 
 </p>
 
@@ -147,7 +147,7 @@ A web application designed to help university students access academic resources
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=NazmulHamim12&theme=tokyonight&column=4"/>
 
 </p>
 
@@ -157,7 +157,7 @@ A web application designed to help university students access academic resources
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NazmulHamim12&theme=tokyo-night"/>
 
 </p>
 
